@@ -47,6 +47,7 @@ const styles = StyleSheet.create({
     fontSize: scale(12),
     opacity: 0.8,
     marginBottom: -3,
+    textTransform: 'capitalize',
   },
   name: {
     fontSize: scale(14),
